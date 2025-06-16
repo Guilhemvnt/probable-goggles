@@ -1,2 +1,2 @@
 # probable-goggles
-A RPG cheet display in ascii
+A RPG sheet display in ascii
