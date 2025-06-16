@@ -1,2 +1,2 @@
 # probable-goggles
-A JDR in ascii
+A RPG cheet display in ascii
