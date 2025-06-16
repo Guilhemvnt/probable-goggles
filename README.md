@@ -1,6 +1,6 @@
 # Probable Goggles
 
-**Probable Goggles** is a simple ASCII-based RPG character sheet display. It presents RPG stats and details in a clean, terminal-friendly ASCII format, making it a lightweight.
+**Probable Goggles** is a simple ASCII-based RPG character sheet display. It presents RPG stats and details in a clean, terminal-friendly ASCII format, making it a lightweight. Made for simply version of DnD
 
 ![RPG Sheet Display](https://github.com/user-attachments/assets/6b257caf-546e-44ae-89a6-8f8c1cbf3deb)
 
