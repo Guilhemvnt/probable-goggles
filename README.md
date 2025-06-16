@@ -29,7 +29,7 @@ README.md        # Project documentation
 ./Install.sh
 ```
 
-Or compile manually:
+## Compile manually:
 
 ```bash
 make
