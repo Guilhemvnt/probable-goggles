@@ -40,3 +40,6 @@ make
 ```bash
 ./probable-goggles
 ```
+## Sources
+Ascii Art from this repository:
+https://github.com/matomatical/dnd5e-ascii-character-sheet
