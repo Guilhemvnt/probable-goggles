@@ -41,5 +41,5 @@ make
 ./probable-goggles
 ```
 ## Sources
-Ascii Art from this repository:
+ASCII Art from this repository:
 https://github.com/matomatical/dnd5e-ascii-character-sheet
