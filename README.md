@@ -1,3 +1,4 @@
 # probable-goggles
 A RPG sheet display in ascii
-![image](https://github.com/user-attachments/assets/b16e8fd3-bb2f-4416-afda-2c3e1576d777)
+<p></p>
+![image](https://github.com/user-attachments/assets/6b257caf-546e-44ae-89a6-8f8c1cbf3deb)
